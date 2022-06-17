@@ -1,0 +1,1 @@
+console.log("This is foo.js file in main");
