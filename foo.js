@@ -1,1 +1,1 @@
-console.log("This is foo.js file in f1 feature");
+console.log("This is foo.js file in develoment");
