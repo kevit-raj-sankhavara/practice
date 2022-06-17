@@ -1,1 +1,0 @@
-console.log("This is bar.js in f2 feature");
